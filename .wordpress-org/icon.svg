@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_2" data-name="Rectángulo 2" width="300" height="300" fill="#fbfbfb"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_4" data-name="Rectángulo 4" width="299" height="299" transform="translate(0.5 0.5)" fill="#fff" stroke="#fff" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-iPhone_X_XS_11_Pro_1">
+      <rect width="500" height="500"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_X_XS_11_Pro_1" data-name="iPhone X/XS/11 Pro – 1" clip-path="url(#clip-iPhone_X_XS_11_Pro_1)">
+    <rect width="500" height="500" fill="#fff"/>
+    <rect id="Rectángulo_1" data-name="Rectángulo 1" width="500" height="500" fill="#f9eecf"/>
+    <g id="Enmascarar_grupo_1" data-name="Enmascarar grupo 1" transform="translate(100 63)" clip-path="url(#clip-path)">
+      <g id="iconfinder-icon_2_" data-name="iconfinder-icon (2)">
+        <g id="Grupo_1" data-name="Grupo 1">
+          <rect id="canvas_background" width="300" height="300" fill="none"/>
+        </g>
+        <g id="Grupo_2" data-name="Grupo 2" transform="translate(11.538 11.538)">
+          <path id="svg_3" d="M181.923,123.269l1.731-15A74.18,74.18,0,0,1,176.731,95c-4.615,2.885-13.269-17.885-6.923-18.462-.577-2.885-1.154-16.731-1.154-16.731-1.731-10.962,8.654-16.154,8.654-16.154,2.308-9.808,24.808-9.808,24.808-9.808,16.154,1.154,20.769,9.808,20.769,9.808,10.962,3.462,9.808,20.192,8.654,28.269-.577,2.308-1.731,3.462-2.308,5.769C240.769,70.769,231.538,95,226.923,95c-1.154,0-1.731,0-2.308-1.154-1.731,5.192-3.462,9.808-6.923,14.423l1.731,15c23.077-8.077,39.808-29.423,39.808-55.385A57.261,57.261,0,0,0,201.538,9.615a58.108,58.108,0,0,0-58.269,58.269,58.93,58.93,0,0,0,38.654,55.385Z" transform="translate(-63.077 -9.615)" fill="#fff"/>
+          <path id="svg_4" d="M269.231,106.731H212.115a64.038,64.038,0,0,1-128.077,0H26.923A17.357,17.357,0,0,0,9.615,124.038V308.077a17,17,0,0,0,17.308,17.308H269.231a17,17,0,0,0,17.308-17.308V124.038A17.357,17.357,0,0,0,269.231,106.731Zm-5.769,184.615a11.572,11.572,0,0,1-11.538,11.538H44.231a11.572,11.572,0,0,1-11.538-11.538V262.5a11.572,11.572,0,0,1,11.538-11.538H251.923A11.572,11.572,0,0,1,263.462,262.5Zm0-69.231a11.572,11.572,0,0,1-11.538,11.538H44.231a11.572,11.572,0,0,1-11.538-11.538V193.269a11.572,11.572,0,0,1,11.538-11.538H251.923a11.572,11.572,0,0,1,11.538,11.538Z" transform="translate(-9.615 -48.462)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectángulo_3" data-name="Rectángulo 3" width="500" height="72" transform="translate(0 368)" fill="#fff"/>
+    <text id="WPOrLogin" transform="translate(250 423)" fill="#0073aa" font-size="60" font-family="Verdana-Bold, Verdana" font-weight="700"><tspan x="-188.569" y="0">WP</tspan><tspan y="0" fill="#580261">OrLogin</tspan></text>
+    <g id="Enmascarar_grupo_2" data-name="Enmascarar grupo 2" transform="translate(100.5 62.5)" clip-path="url(#clip-path-2)">
+      <g id="iconfinder-icon_3_" data-name="iconfinder-icon (3)">
+        <g id="Grupo_3" data-name="Grupo 3">
+          <rect id="canvas_background-2" data-name="canvas_background" width="299" height="299" transform="translate(0.5 0.5)" fill="none"/>
+        </g>
+        <g id="Grupo_4" data-name="Grupo 4" transform="translate(11.5 11.5)">
+          <path id="svg_3-2" data-name="svg_3" d="M181.794,122.89l1.725-14.95a73.932,73.932,0,0,1-6.9-13.225c-4.6,2.875-13.225-17.825-6.9-18.4-.575-2.875-1.15-16.675-1.15-16.675-1.725-10.925,8.625-16.1,8.625-16.1,2.3-9.775,24.725-9.775,24.725-9.775,16.1,1.15,20.7,9.775,20.7,9.775,10.925,3.45,9.775,20.125,8.625,28.175-.575,2.3-1.725,3.45-2.3,5.75,11.5-6.9,2.3,17.25-2.3,17.25-1.15,0-1.725,0-2.3-1.15-1.725,5.175-3.45,9.775-6.9,14.375l1.725,14.95c23-8.05,39.675-29.325,39.675-55.2a57.07,57.07,0,0,0-57.5-58.075A57.914,57.914,0,0,0,143.269,67.69a58.733,58.733,0,0,0,38.525,55.2Z" transform="translate(-63.344 -9.615)" fill="#580261"/>
+          <path id="svg_4-2" data-name="svg_4" d="M268.365,106.731H211.44a63.825,63.825,0,1,1-127.65,0H26.865a17.3,17.3,0,0,0-17.25,17.25V307.406a16.942,16.942,0,0,0,17.25,17.25h241.5a16.942,16.942,0,0,0,17.25-17.25V123.981A17.3,17.3,0,0,0,268.365,106.731Zm-5.75,184a11.534,11.534,0,0,1-11.5,11.5h-207a11.534,11.534,0,0,1-11.5-11.5v-28.75a11.534,11.534,0,0,1,11.5-11.5h207a11.534,11.534,0,0,1,11.5,11.5Zm0-69a11.534,11.534,0,0,1-11.5,11.5h-207a11.534,11.534,0,0,1-11.5-11.5v-28.75a11.534,11.534,0,0,1,11.5-11.5h207a11.534,11.534,0,0,1,11.5,11.5Z" transform="translate(-9.615 -48.656)" fill="#580261"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
